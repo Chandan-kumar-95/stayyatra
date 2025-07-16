@@ -4,32 +4,31 @@ StayYatra is a modern hotel and travel listing web application that allows users
 
 Demo
  [https://stayyatra-2.onrender.com/listings](https://stayyatra-2.onrender.com/listings)
-
----
+ 
+ https://github.com/Chandan-kumar-95/
 
 Features
+User-friendly interface with responsive design
+Location-based listings using **Mapbox**
+Image uploads handled by **Cloudinary**
+Form validation using **Joi**
+Organized project structure (MVC pattern)
+File upload with **Multer**
+Clean code and well-commented for better readability
 
-- User-friendly interface with responsive design
-- Location-based listings using **Mapbox**
-- Image uploads handled by **Cloudinary**
-- Form validation using **Joi**
-- Organized project structure (MVC pattern)
-- File upload with **Multer**
-- Clean code and well-commented for better readability
 
----
 Tech Stack
 
-- **Backend:** Node.js, Express.js
-- **Frontend:** EJS Templates, Bootstrap
-- **Database:** MongoDB with Mongoose
-- **Other Services:** Cloudinary, Mapbox
-- **Validation:** Joi
-- **Hosting:** Render
+**Backend:** Node.js, Express.js
+**Frontend:** EJS Templates, Bootstrap
+**Database:** MongoDB with Mongoose
+**Other Services:** Cloudinary, Mapbox
+**Validation:** Joi
+**Hosting:** Render
 
 Installation & Setup
 
-```bash
+bash
 # Clone the repo
 git clone https://github.com/Chandan-kumar-95/stayyatra.git
 
